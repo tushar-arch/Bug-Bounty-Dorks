@@ -1,0 +1,8 @@
+inurl:security-program intext:bug bounty
+intext:report a bug intext:reward
+intext:"our bug bounty program" "reward"
+intext:"bug bounty program" "@"
+intext:"USDT" inurl:"Bug-Bounty"
+intext:whitehat program reward
+inurl:report-a-bug intext:reward
+intext:you will receive a reward inurl:Bug bounty
