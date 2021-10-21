@@ -6,3 +6,11 @@ intext:"USDT" inurl:"Bug-Bounty"
 intext:whitehat program reward
 inurl:report-a-bug intext:reward
 intext:you will receive a reward inurl:Bug bounty
+inurl:bug-bounty intext:cash rewards
+site:security.*.com intext:bug bounty
+site:security.*.* inurl: bounty
+vulnerability detection program reward
+intext:Cryptocurrency Exchange intext:Bug bounty
+inurl:bug bounty intext:token of gratitude
+inurl:bug bounty intext:token of appreciation
+inurl:vulnerability-disclosure intext:bounty
